@@ -90,11 +90,7 @@ ADMIN_PASSWORD=AdminOnly1234
 📧 [akshaykumarsingh071825@gmail.com](mailto:akshaykumarsingh071825@gmail.com)
 🔗 [github.com/algoAkshay](https://github.com/algoAkshay)
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -103,15 +99,3 @@ Let **MockGenie** power your interview prep or streamline your candidate evaluat
 
 ```
 
----
-
-✅ Now just open your `README.md` file and replace its contents with the above.
-
-Let me know if you'd like:
-
-- A custom logo placed at the top
-- GitHub badges for stars, forks, issues
-- Deployment instructions for Vercel / EC2 / Render
-
-You're fully rebranded now. Let's go! 🚀
-```
