@@ -97,5 +97,3 @@ ADMIN_PASSWORD=AdminOnly1234
 Let **MockGenie** power your interview prep or streamline your candidate evaluation.
 🧠 Practice smarter. Hire better.
 
-```
-
